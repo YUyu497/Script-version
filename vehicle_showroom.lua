@@ -3,7 +3,7 @@
 
 return {
     -- 版本号 (Version Number)
-    version = "1.0.0",
+    version = "1.0.1",
     
     -- 发布日期 (Release Date)
     release_date = "2025-09-20",
@@ -14,3 +14,4 @@ return {
     -- 更新日志 (Changelog)
     changelog = "修复了版本检查功能，优化了车辆监控系统"
 }
+
