@@ -1,5 +1,5 @@
 -- 限制武器伤害系统版本信息文件
--- Vehicle Showroom System Version Information
+-- Weapon Damage Restriction System Version Information
 
 return {
     -- 版本号 (Version Number)
@@ -12,7 +12,5 @@ return {
     download_url = "https://keymaster.fivem.net/",
     
     -- 更新日志 (Changelog)
-    changelog = "修复了版本检查功能，优化了车辆监控系统"
+    changelog = "- 集成ox_lib图形界面菜单\n- 添加武器名称自动获取功能\n- 改进权限系统，支持ESX管理员和自定义标识符\n- 优化性能，减少日志输出"
 }
-
-
