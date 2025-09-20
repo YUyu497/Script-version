@@ -1,8 +1,8 @@
 {
     "version": "1.0.0",
     "release_date": "2024-01-01",
-    "download_url": "https://github.com/your-username/your-repo/releases/latest",
-    "changelog": "初始版本发布",
+    "download_url": "https://github.com/YUyu497/Script-version/releases/latest",
+    "changelog": "初始版本发布 - 车辆展示系统",
     "compatibility": {
         "fx_version": "cerulean",
         "game": "gta5",
@@ -12,7 +12,8 @@
         "车辆展示系统",
         "数据库持久化",
         "权限控制",
-        "性能优化"
+        "性能优化",
+        "自动版本检查"
     ],
-    "notes": "请将 version.json 文件上传到你的GitHub仓库的根目录，并确保可以通过 https://raw.githubusercontent.com/your-username/your-repo/main/version.json 访问"
+    "notes": "版本检查功能已集成，会自动从fxmanifest.lua读取当前版本号"
 }
