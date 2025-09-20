@@ -1,0 +1,18 @@
+{
+    "version": "1.0.0",
+    "release_date": "2024-01-01",
+    "download_url": "https://github.com/your-username/your-repo/releases/latest",
+    "changelog": "初始版本发布",
+    "compatibility": {
+        "fx_version": "cerulean",
+        "game": "gta5",
+        "esx_version": "1.9.0+"
+    },
+    "features": [
+        "车辆展示系统",
+        "数据库持久化",
+        "权限控制",
+        "性能优化"
+    ],
+    "notes": "请将 version.json 文件上传到你的GitHub仓库的根目录，并确保可以通过 https://raw.githubusercontent.com/your-username/your-repo/main/version.json 访问"
+}
