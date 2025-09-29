@@ -6,7 +6,7 @@ return {
     version = "1.1.0",
     
     -- 发布日期 (Release Date)
-    release_date = "2024-12-19",
+    release_date = "2025-09-29",
     
     -- 下载地址 (Download URL)
     download_url = "https://github.com/YUyu497/Script-version/releases/latest",
