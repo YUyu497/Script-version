@@ -9,54 +9,84 @@
 
 </div>
 <!-- ========================= 超级导航栏（醒目且可导航） ========================= -->
-<div align="center" style="margin: 24px 0;">
-  <div style="background: linear-gradient(135deg, #6a11cb 0%, #2575fc 100%); padding: 18px 16px; border-radius: 14px; color: #fff; box-shadow: 0 10px 24px rgba(0,0,0,.18);">
-    <div style="font-size: 22px; font-weight: 800; letter-spacing: .5px; margin-bottom: 10px;">🚀 快速导航</div>
-    <div style="display: inline-flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
-      <a href="#toc" style="background:#ffffff1a; padding:8px 14px; border-radius:999px; color:#fff; text-decoration:none; font-weight:700;">📚 目录</a>
-      <a href="#details" style="background:#ffffff1a; padding:8px 14px; border-radius:999px; color:#fff; text-decoration:none; font-weight:700;">📋 详细版本记录</a>
-      <a href="#mgmt" style="background:#ffffff1a; padding:8px 14px; border-radius:999px; color:#fff; text-decoration:none; font-weight:700;">👥 玩家管理</a>
-      <a href="#combat" style="background:#ffffff1a; padding:8px 14px; border-radius:999px; color:#fff; text-decoration:none; font-weight:700;">🔫 武器战斗</a>
-      <a href="#economy" style="background:#ffffff1a; padding:8px 14px; border-radius:999px; color:#fff; text-decoration:none; font-weight:700;">💰 经济交易</a>
-      <a href="#gameplay" style="background:#ffffff1a; padding:8px 14px; border-radius:999px; color:#fff; text-decoration:none; font-weight:700;">🎮 游戏功能</a>
-      <a href="#admin" style="background:#ffffff1a; padding:8px 14px; border-radius:999px; color:#fff; text-decoration:none; font-weight:700;">🛠️ 管理工具</a>
-      <a href="#rules" style="background:#ffffff1a; padding:8px 14px; border-radius:999px; color:#fff; text-decoration:none; font-weight:700;">🚫 限制规则</a>
-      <a href="#version-check" style="background:#ffffff1a; padding:8px 14px; border-radius:999px; color:#fff; text-decoration:none; font-weight:700;">🔍 版本检测</a>
-      <a href="#charts" style="background:#ffffff1a; padding:8px 14px; border-radius:999px; color:#fff; text-decoration:none; font-weight:700;">📊 图表</a>
-      <a href="#support" style="background:#ffffff1a; padding:8px 14px; border-radius:999px; color:#fff; text-decoration:none; font-weight:700;">📞 支持</a>
-    </div>
-  </div>
+<div align="center">
+  
+  [![目录](https://img.shields.io/badge/📚%20目录-Top-blue?style=for-the-badge)](#toc)
+  [![详细版本记录](https://img.shields.io/badge/📋%20详细版本记录-Details-purple?style=for-the-badge)](#details)
+  [![玩家管理](https://img.shields.io/badge/👥%20玩家管理-Mgmt-8A2BE2?style=for-the-badge)](#mgmt)
+  [![武器战斗](https://img.shields.io/badge/🔫%20武器战斗-Combat-DC143C?style=for-the-badge)](#combat)
+  [![经济交易](https://img.shields.io/badge/💰%20经济交易-Economy-2E8B57?style=for-the-badge)](#economy)
+  [![游戏功能](https://img.shields.io/badge/🎮%20游戏功能-Gameplay-1E90FF?style=for-the-badge)](#gameplay)
+  [![管理工具](https://img.shields.io/badge/🛠️%20管理工具-Admin-FFA500?style=for-the-badge)](#admin)
+  [![限制规则](https://img.shields.io/badge/🚫%20限制与规则-Rules-708090?style=for-the-badge)](#rules)
+  [![版本检测](https://img.shields.io/badge/🔍%20版本检测-Guide-20B2AA?style=for-the-badge)](#version-check)
+  [![图表](https://img.shields.io/badge/📊%20图表-Charts-9370DB?style=for-the-badge)](#charts)
+  [![支持](https://img.shields.io/badge/📞%20支持-Support-FF69B4?style=for-the-badge)](#support)
+
 </div>
 
-<!-- ========================= 快速打开（开头提供“打开文件”功能） ========================= -->
-<div align="center" style="margin: 8px 0 22px;">
-  <div style="background:#0f172a; padding:16px; border-radius:12px; color:#e2e8f0; box-shadow: 0 6px 18px rgba(2,6,23,.4);">
-    <div style="font-size:18px; font-weight:800; margin-bottom:10px;">🧰 快速打开插件文件</div>
-    <div style="display:inline-flex; flex-wrap:wrap; gap:8px; justify-content:center;">
-      <a href="./Idle_idle_rewards.lua" style="background:#1f2937; color:#fff; text-decoration:none; padding:6px 10px; border-radius:8px;">Idle_idle_rewards.lua</a>
-      <a href="./Offline-off-duty.lua" style="background:#1f2937; color:#fff; text-decoration:none; padding:6px 10px; border-radius:8px;">Offline-off-duty.lua</a>
-      <a href="./Player_stats.lua" style="background:#1f2937; color:#fff; text-decoration:none; padding:6px 10px; border-radius:8px;">Player_stats.lua</a>
-      <a href="./Duration_statistics.lua" style="background:#1f2937; color:#fff; text-decoration:none; padding:6px 10px; border-radius:8px;">Duration_statistics.lua</a>
-      <a href="./zidanbao.lua" style="background:#1f2937; color:#fff; text-decoration:none; padding:6px 10px; border-radius:8px;">zidanbao.lua</a>
-      <a href="./jiu_toggleammo.lua" style="background:#1f2937; color:#fff; text-decoration:none; padding:6px 10px; border-radius:8px;">jiu_toggleammo.lua</a>
-      <a href="./Carrying_weapon.lua" style="background:#1f2937; color:#fff; text-decoration:none; padding:6px 10px; border-radius:8px;">Carrying_weapon.lua</a>
-      <a href="./Wea_damage_recoil.lua" style="background:#1f2937; color:#fff; text-decoration:none; padding:6px 10px; border-radius:8px;">Wea_damage_recoil.lua</a>
-      <a href="./Bundle_system.lua" style="background:#1f2937; color:#fff; text-decoration:none; padding:6px 10px; border-radius:8px;">Bundle_system.lua</a>
-      <a href="./es-rentacar.lua" style="background:#1f2937; color:#fff; text-decoration:none; padding:6px 10px; border-radius:8px;">es-rentacar.lua</a>
-      <a href="./Bar_system.lua" style="background:#1f2937; color:#fff; text-decoration:none; padding:6px 10px; border-radius:8px;">Bar_system.lua</a>
-      <a href="./jiu_Plantingharvesting.lua" style="background:#1f2937; color:#fff; text-decoration:none; padding:6px 10px; border-radius:8px;">jiu_Plantingharvesting.lua</a>
-      <a href="./jiu_mining.lua" style="background:#1f2937; color:#fff; text-decoration:none; padding:6px 10px; border-radius:8px;">jiu_mining.lua</a>
-      <a href="./cooldown.lua" style="background:#1f2937; color:#fff; text-decoration:none; padding:6px 10px; border-radius:8px;">cooldown.lua</a>
-      <a href="./Floating_word.lua" style="background:#1f2937; color:#fff; text-decoration:none; padding:6px 10px; border-radius:8px;">Floating_word.lua</a>
-      <a href="./ajiu_proximity.lua" style="background:#1f2937; color:#fff; text-decoration:none; padding:6px 10px; border-radius:8px;">ajiu_proximity.lua</a>
-      <a href="./az_seatswitch.lua" style="background:#1f2937; color:#fff; text-decoration:none; padding:6px 10px; border-radius:8px;">az_seatswitch.lua</a>
-      <a href="./vehicle_showroom.lua" style="background:#1f2937; color:#fff; text-decoration:none; padding:6px 10px; border-radius:8px;">vehicle_showroom.lua</a>
-      <a href="./administrator_touches_backpack.lua" style="background:#1f2937; color:#fff; text-decoration:none; padding:6px 10px; border-radius:8px;">administrator_touches_backpack.lua</a>
-      <a href="./Restrict_item_discarding.lua" style="background:#1f2937; color:#fff; text-decoration:none; padding:6px 10px; border-radius:8px;">Restrict_item_discarding.lua</a>
-      <a href="./job_change_history.lua" style="background:#1f2937; color:#fff; text-decoration:none; padding:6px 10px; border-radius:8px;">job_change_history.lua</a>
-      <a href="./Food_waste.lua" style="background:#1f2937; color:#fff; text-decoration:none; padding:6px 10px; border-radius:8px;">Food_waste.lua</a>
-    </div>
-  </div>
+<!-- ========================= 快速打开（开头提供“打开文件”功能，采用徽章栅格，美观且GitHub可渲染） ========================= -->
+<div align="center">
+
+## 🧰 快速打开插件文件
+
+<table>
+  <tr>
+    <td align="right">👥 玩家管理</td>
+    <td>
+      <a href="./Idle_idle_rewards.lua"><img alt="Open Idle_idle_rewards.lua" src="https://img.shields.io/badge/Idle_idle_rewards.lua-open-1f6feb?style=for-the-badge" /></a>
+      <a href="./Offline-off-duty.lua"><img alt="Open Offline-off-duty.lua" src="https://img.shields.io/badge/Offline--off--duty.lua-open-1f6feb?style=for-the-badge" /></a>
+      <a href="./Player_stats.lua"><img alt="Open Player_stats.lua" src="https://img.shields.io/badge/Player_stats.lua-open-1f6feb?style=for-the-badge" /></a>
+      <a href="./Duration_statistics.lua"><img alt="Open Duration_statistics.lua" src="https://img.shields.io/badge/Duration_statistics.lua-open-1f6feb?style=for-the-badge" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td align="right">🔫 武器与战斗</td>
+    <td>
+      <a href="./zidanbao.lua"><img alt="Open zidanbao.lua" src="https://img.shields.io/badge/zidanbao.lua-open-DC143C?style=for-the-badge" /></a>
+      <a href="./jiu_toggleammo.lua"><img alt="Open jiu_toggleammo.lua" src="https://img.shields.io/badge/jiu_toggleammo.lua-open-DC143C?style=for-the-badge" /></a>
+      <a href="./Carrying_weapon.lua"><img alt="Open Carrying_weapon.lua" src="https://img.shields.io/badge/Carrying_weapon.lua-open-DC143C?style=for-the-badge" /></a>
+      <a href="./Wea_damage_recoil.lua"><img alt="Open Wea_damage_recoil.lua" src="https://img.shields.io/badge/Wea_damage_recoil.lua-open-DC143C?style=for-the-badge" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td align="right">💰 经济与交易</td>
+    <td>
+      <a href="./Bundle_system.lua"><img alt="Open Bundle_system.lua" src="https://img.shields.io/badge/Bundle_system.lua-open-2E8B57?style=for-the-badge" /></a>
+      <a href="./es-rentacar.lua"><img alt="Open es-rentacar.lua" src="https://img.shields.io/badge/es--rentacar.lua-open-2E8B57?style=for-the-badge" /></a>
+      <a href="./Bar_system.lua"><img alt="Open Bar_system.lua" src="https://img.shields.io/badge/Bar_system.lua-open-2E8B57?style=for-the-badge" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td align="right">🎮 游戏功能</td>
+    <td>
+      <a href="./jiu_Plantingharvesting.lua"><img alt="Open jiu_Plantingharvesting.lua" src="https://img.shields.io/badge/jiu_Plantingharvesting.lua-open-1E90FF?style=for-the-badge" /></a>
+      <a href="./jiu_mining.lua"><img alt="Open jiu_mining.lua" src="https://img.shields.io/badge/jiu_mining.lua-open-1E90FF?style=for-the-badge" /></a>
+      <a href="./cooldown.lua"><img alt="Open cooldown.lua" src="https://img.shields.io/badge/cooldown.lua-open-1E90FF?style=for-the-badge" /></a>
+      <a href="./Floating_word.lua"><img alt="Open Floating_word.lua" src="https://img.shields.io/badge/Floating_word.lua-open-1E90FF?style=for-the-badge" /></a>
+      <a href="./ajiu_proximity.lua"><img alt="Open ajiu_proximity.lua" src="https://img.shields.io/badge/ajiu_proximity.lua-open-1E90FF?style=for-the-badge" /></a>
+      <a href="./az_seatswitch.lua"><img alt="Open az_seatswitch.lua" src="https://img.shields.io/badge/az_seatswitch.lua-open-1E90FF?style=for-the-badge" /></a>
+      <a href="./vehicle_showroom.lua"><img alt="Open vehicle_showroom.lua" src="https://img.shields.io/badge/vehicle_showroom.lua-open-1E90FF?style=for-the-badge" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td align="right">🛠️ 管理工具</td>
+    <td>
+      <a href="./administrator_touches_backpack.lua"><img alt="Open administrator_touches_backpack.lua" src="https://img.shields.io/badge/administrator_touches_backpack.lua-open-FFA500?style=for-the-badge" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td align="right">🚫 限制与规则</td>
+    <td>
+      <a href="./Restrict_item_discarding.lua"><img alt="Open Restrict_item_discarding.lua" src="https://img.shields.io/badge/Restrict_item_discarding.lua-open-708090?style=for-the-badge" /></a>
+      <a href="./job_change_history.lua"><img alt="Open job_change_history.lua" src="https://img.shields.io/badge/job_change_history.lua-open-708090?style=for-the-badge" /></a>
+      <a href="./Food_waste.lua"><img alt="Open Food_waste.lua" src="https://img.shields.io/badge/Food_waste.lua-open-708090?style=for-the-badge" /></a>
+    </td>
+  </tr>
+</table>
+
+> 小贴士：点击上方徽章即可直接打开对应 `.lua` 文件；点击下方目录亦可快速跳转到每个插件的“更新日志”小节。
+
 </div>
 
 ---
