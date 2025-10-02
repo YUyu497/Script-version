@@ -3,7 +3,7 @@
 
 return {
     -- 版本号 (Version Number)
-    version = "1.0.0",
+    version = "1.2.0",
     
     -- 发布日期 (Release Date)
     release_date = "2024-12-19",
@@ -12,5 +12,6 @@ return {
     download_url = "https://keymaster.fivem.net/",
     
     -- 更新日志 (Changelog)
-    changelog = "- 支持 ESX 和 QBCore 框架\n- 包含时间限制、职业要求、物品组等功能\n- 支持一次性领取和重复领取\n- 集成版本检测功能"
+    changelog = "### v1.2.0\n- 添加 QBCore 框架支持\n  - 添加框架选择配置\n  - 适配 QBCore 的物品系统\n  - 适配 QBCore 的金钱系统\n  - 适配 QBCore 的车辆系统\n- 优化物品添加逻辑\n  - 使用 ox_inventory 检查背包空间\n  - 添加物品添加失败处理\n  - 优化错误提示信息\n- 改进数据库结构\n  - 添加索引优化查询性能\n  - 统一表名和字段名\n- 优化代码结构\n  - 重构框架相关函数\n  - 添加更多调试信息\n  - 优化错误处理\n- 更新文档\n  - 添加框架选择说明\n  - 更新安装要求\n  - 更新配置说明"
 }
+

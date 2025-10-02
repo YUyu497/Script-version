@@ -3,7 +3,7 @@
 
 return {
     -- 版本号 (Version Number)
-    version = "1.0.0",
+    version = "1.5.0",
     
     -- 发布日期 (Release Date)
     release_date = "2025-01-27",
