@@ -34,53 +34,53 @@
   <tr>
     <td align="right">👥 玩家管理</td>
     <td>
-      <a href="./Idle_idle_rewards.lua"><img alt="Open Idle_idle_rewards.lua" src="https://img.shields.io/badge/Idle_idle_rewards.lua-open-1f6feb?style=for-the-badge" /></a>
-      <a href="./Offline-off-duty.lua"><img alt="Open Offline-off-duty.lua" src="https://img.shields.io/badge/Offline--off--duty.lua-open-1f6feb?style=for-the-badge" /></a>
-      <a href="./Player_stats.lua"><img alt="Open Player_stats.lua" src="https://img.shields.io/badge/Player_stats.lua-open-1f6feb?style=for-the-badge" /></a>
-      <a href="./Duration_statistics.lua"><img alt="Open Duration_statistics.lua" src="https://img.shields.io/badge/Duration_statistics.lua-open-1f6feb?style=for-the-badge" /></a>
+      <a href="./Idle_idle_rewards.lua"><img alt="Open Idle_idle_rewards.lua" src="https://img.shields.io/badge/AFK挂机奖励系统-open-1f6feb?style=for-the-badge" /></a>
+      <a href="./Offline-off-duty.lua"><img alt="Open Offline-off-duty.lua" src="https://img.shields.io/badge/公职下线自动下班-open-1f6feb?style=for-the-badge" /></a>
+      <a href="./Player_stats.lua"><img alt="Open Player_stats.lua" src="https://img.shields.io/badge/玩家数据统计-open-1f6feb?style=for-the-badge" /></a>
+      <a href="./Duration_statistics.lua"><img alt="Open Duration_statistics.lua" src="https://img.shields.io/badge/职业时长统计-open-1f6feb?style=for-the-badge" /></a>
     </td>
   </tr>
   <tr>
     <td align="right">🔫 武器与战斗</td>
     <td>
-      <a href="./zidanbao.lua"><img alt="Open zidanbao.lua" src="https://img.shields.io/badge/zidanbao.lua-open-DC143C?style=for-the-badge" /></a>
-      <a href="./jiu_toggleammo.lua"><img alt="Open jiu_toggleammo.lua" src="https://img.shields.io/badge/jiu_toggleammo.lua-open-DC143C?style=for-the-badge" /></a>
-      <a href="./Carrying_weapon.lua"><img alt="Open Carrying_weapon.lua" src="https://img.shields.io/badge/Carrying_weapon.lua-open-DC143C?style=for-the-badge" /></a>
-      <a href="./Wea_damage_recoil.lua"><img alt="Open Wea_damage_recoil.lua" src="https://img.shields.io/badge/Wea_damage_recoil.lua-open-DC143C?style=for-the-badge" /></a>
+      <a href="./zidanbao.lua"><img alt="Open zidanbao.lua" src="https://img.shields.io/badge/子弹包-open-DC143C?style=for-the-badge" /></a>
+      <a href="./jiu_toggleammo.lua"><img alt="Open jiu_toggleammo.lua" src="https://img.shields.io/badge/弹药显示-open-DC143C?style=for-the-badge" /></a>
+      <a href="./Carrying_weapon.lua"><img alt="Open Carrying_weapon.lua" src="https://img.shields.io/badge/背枪系统-open-DC143C?style=for-the-badge" /></a>
+      <a href="./Wea_damage_recoil.lua"><img alt="Open Wea_damage_recoil.lua" src="https://img.shields.io/badge/限制武器伤害-open-DC143C?style=for-the-badge" /></a>
     </td>
   </tr>
   <tr>
     <td align="right">💰 经济与交易</td>
     <td>
-      <a href="./Bundle_system.lua"><img alt="Open Bundle_system.lua" src="https://img.shields.io/badge/Bundle_system.lua-open-2E8B57?style=for-the-badge" /></a>
-      <a href="./es-rentacar.lua"><img alt="Open es-rentacar.lua" src="https://img.shields.io/badge/es--rentacar.lua-open-2E8B57?style=for-the-badge" /></a>
-      <a href="./Bar_system.lua"><img alt="Open Bar_system.lua" src="https://img.shields.io/badge/Bar_system.lua-open-2E8B57?style=for-the-badge" /></a>
+      <a href="./Bundle_system.lua"><img alt="Open Bundle_system.lua" src="https://img.shields.io/badge/礼包系统-open-2E8B57?style=for-the-badge" /></a>
+      <a href="./es-rentacar.lua"><img alt="Open es-rentacar.lua" src="https://img.shields.io/badge/租聘系统-open-2E8B57?style=for-the-badge" /></a>
+      <a href="./Bar_system.lua"><img alt="Open Bar_system.lua" src="https://img.shields.io/badge/酒吧系统-open-2E8B57?style=for-the-badge" /></a>
     </td>
   </tr>
   <tr>
     <td align="right">🎮 游戏功能</td>
     <td>
-      <a href="./jiu_Plantingharvesting.lua"><img alt="Open jiu_Plantingharvesting.lua" src="https://img.shields.io/badge/jiu_Plantingharvesting.lua-open-1E90FF?style=for-the-badge" /></a>
-      <a href="./jiu_mining.lua"><img alt="Open jiu_mining.lua" src="https://img.shields.io/badge/jiu_mining.lua-open-1E90FF?style=for-the-badge" /></a>
-      <a href="./cooldown.lua"><img alt="Open cooldown.lua" src="https://img.shields.io/badge/cooldown.lua-open-1E90FF?style=for-the-badge" /></a>
-      <a href="./Floating_word.lua"><img alt="Open Floating_word.lua" src="https://img.shields.io/badge/Floating_word.lua-open-1E90FF?style=for-the-badge" /></a>
-      <a href="./ajiu_proximity.lua"><img alt="Open ajiu_proximity.lua" src="https://img.shields.io/badge/ajiu_proximity.lua-open-1E90FF?style=for-the-badge" /></a>
-      <a href="./az_seatswitch.lua"><img alt="Open az_seatswitch.lua" src="https://img.shields.io/badge/az_seatswitch.lua-open-1E90FF?style=for-the-badge" /></a>
-      <a href="./vehicle_showroom.lua"><img alt="Open vehicle_showroom.lua" src="https://img.shields.io/badge/vehicle_showroom.lua-open-1E90FF?style=for-the-badge" /></a>
+      <a href="./jiu_Plantingharvesting.lua"><img alt="Open jiu_Plantingharvesting.lua" src="https://img.shields.io/badge/作物种植与采摘-open-1E90FF?style=for-the-badge" /></a>
+      <a href="./jiu_mining.lua"><img alt="Open jiu_mining.lua" src="https://img.shields.io/badge/挖矿系统-open-1E90FF?style=for-the-badge" /></a>
+      <a href="./cooldown.lua"><img alt="Open cooldown.lua" src="https://img.shields.io/badge/冷却倒计时-open-1E90FF?style=for-the-badge" /></a>
+      <a href="./Floating_word.lua"><img alt="Open Floating_word.lua" src="https://img.shields.io/badge/漂浮字-open-1E90FF?style=for-the-badge" /></a>
+      <a href="./ajiu_proximity.lua"><img alt="Open ajiu_proximity.lua" src="https://img.shields.io/badge/说话显示-open-1E90FF?style=for-the-badge" /></a>
+      <a href="./az_seatswitch.lua"><img alt="Open az_seatswitch.lua" src="https://img.shields.io/badge/车辆换座位-open-1E90FF?style=for-the-badge" /></a>
+      <a href="./vehicle_showroom.lua"><img alt="Open vehicle_showroom.lua" src="https://img.shields.io/badge/车辆展示-open-1E90FF?style=for-the-badge" /></a>
     </td>
   </tr>
   <tr>
     <td align="right">🛠️ 管理工具</td>
     <td>
-      <a href="./administrator_touches_backpack.lua"><img alt="Open administrator_touches_backpack.lua" src="https://img.shields.io/badge/administrator_touches_backpack.lua-open-FFA500?style=for-the-badge" /></a>
+      <a href="./administrator_touches_backpack.lua"><img alt="Open administrator_touches_backpack.lua" src="https://img.shields.io/badge/管理员摸背包-open-FFA500?style=for-the-badge" /></a>
     </td>
   </tr>
   <tr>
     <td align="right">🚫 限制与规则</td>
     <td>
-      <a href="./Restrict_item_discarding.lua"><img alt="Open Restrict_item_discarding.lua" src="https://img.shields.io/badge/Restrict_item_discarding.lua-open-708090?style=for-the-badge" /></a>
-      <a href="./job_change_history.lua"><img alt="Open job_change_history.lua" src="https://img.shields.io/badge/job_change_history.lua-open-708090?style=for-the-badge" /></a>
-      <a href="./Food_waste.lua"><img alt="Open Food_waste.lua" src="https://img.shields.io/badge/Food_waste.lua-open-708090?style=for-the-badge" /></a>
+      <a href="./Restrict_item_discarding.lua"><img alt="Open Restrict_item_discarding.lua" src="https://img.shields.io/badge/限制物品丢弃-open-708090?style=for-the-badge" /></a>
+      <a href="./job_change_history.lua"><img alt="Open job_change_history.lua" src="https://img.shields.io/badge/限制转职业-open-708090?style=for-the-badge" /></a>
+      <a href="./Food_waste.lua"><img alt="Open Food_waste.lua" src="https://img.shields.io/badge/食物垃圾-open-708090?style=for-the-badge" /></a>
     </td>
   </tr>
 </table>
@@ -146,7 +146,7 @@
 
 ### 👥 玩家管理类
 
-#### 🕐 AFK模式 (Idle_idle_rewards)
+#### 🕐 AFK挂机奖励系统 (Idle_idle_rewards)
 - [打开文件](./Idle_idle_rewards.lua)
 - **版本**: v1.4.0
 - **发布日期**: 2024-12-19
@@ -220,7 +220,7 @@
   - ✅ 支持多语言界面
   - ✅ 修复已知问题
 
-#### 🔫 背枪 (Carrying_weapon)
+#### 🔫 背枪系统 (Carrying_weapon)
 - [打开文件](./Carrying_weapon.lua)
 - **版本**: v1.1.0
 - **发布日期**: 2025-01-20
@@ -230,7 +230,7 @@
   - ✅ 改进UI界面交互体验
   - ✅ 修复已知bug并提升稳定性
 
-#### ⚔️ 限制武器伤害和伤害显示 (Wea_damage_recoil)
+#### ⚔️ 限制武器伤害 (Wea_damage_recoil)
 - [打开文件](./Wea_damage_recoil.lua)
 - **版本**: v1.2.0
 - **发布日期**: 2025-01-20
@@ -291,7 +291,7 @@
   - ✅ 集成挖矿系统
   - ✅ 支持ESX框架
 
-#### ⛏️ 挖矿 (jiu_mining)
+#### ⛏️ 挖矿系统 (jiu_mining)
 - [打开文件](./jiu_mining.lua)
 - **版本**: v1.0.0
 - **发布日期**: 2025-01-27
